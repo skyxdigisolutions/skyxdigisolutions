@@ -20,7 +20,7 @@ export const ServiceSection = (props:any) => {
                             <Image src={dm} height={64} width={64} alt="digital_marketing"/>
                             <div className="card-body">
                                 <h5 className="card-title">Digital Marketing</h5>
-                                <p className="card-text">We boost your brand&apos;s value through creative social media advertising, including PPC (pay per click) services.</p>
+                                <p className="card-text">We boost your brand&apos;s value through creative social media advertising, including PPC (pay per click) services. Brand Promotions and Promting Festival sales</p>
                             </div>
                         </div>
                     </div>
