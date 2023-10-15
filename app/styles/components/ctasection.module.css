@@ -1,0 +1,35 @@
+.ctacontainer{
+    border-radius: 12px;
+    margin: 1rem;
+    background: rgb(255,255,255);
+    background: linear-gradient(218deg, rgba(255,255,255,1) 0%, rgba(0,153,255,1) 100%, rgba(156,184,255,1) 100%);
+}
+
+
+.svgelement{
+    width: 400px;
+    height: 400px;
+}
+
+@media screen and (max-width: 991px){
+
+    .svgelement{
+        width: 260px;
+        height: 260px;
+    }
+    .ctacontainer{
+        border-radius: 12px;
+        font-size: 12px;
+        width: 100px;
+        margin: 1rem;
+        background-color: whitesmoke;
+        background: linear-gradient(273deg, #0099ff, #ffffff);
+        background-size: 600% 600%;
+        width: 100%;
+    
+        -webkit-animation: AnimationName 14s ease infinite;
+        -moz-animation: AnimationName 14s ease infinite;
+        -o-animation: AnimationName 14s ease infinite;
+        animation: AnimationName 14s ease infinite;
+    }
+}
