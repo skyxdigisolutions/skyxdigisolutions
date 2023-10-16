@@ -8,7 +8,7 @@ export const NavBar=()=>{
 <nav className="navbar navbar-expand-lg bg-body-tertiary">
   <div className="container-fluid">
     <a className="navbar-brand fs-2 " href="#">
-        <Image alt="skylogo" src={skydigi_logo} height={100} width={100}/>
+        <Image alt="skylogo" src={skydigi_logo} height={200} width={200}/>
     </a>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span className="navbar-toggler-icon"></span>
